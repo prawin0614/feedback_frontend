@@ -1,0 +1,59 @@
+.landing-page {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.landing-content {
+  position: relative;
+  z-index: 2;
+}
+
+.landing-title {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  text-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.landing-subtitle {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.landing-buttons button {
+  padding: 12px 30px;
+  margin: 0 15px;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-weight: bold;
+}
+
+.btn-student {
+  background: #4fc3f7;
+  color: #fff;
+}
+
+.btn-student:hover {
+  background: #29b6f6;
+}
+
+.btn-management {
+  background: #ffb74d;
+  color: #fff;
+}
+
+.btn-management:hover {
+  background: #ffa726;
+}
