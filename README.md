@@ -24,6 +24,10 @@ This frontend **depends on the backend service**.
 If backend is not running, complaints data may not load.
 
 ---
+## 📊 Project Presentation
+
+👉 [Download Project PPT](https://github.com/prawin0614/feedback-backend/blob/main/Complaint_Management_System_Presentation.pptx)
+
 
 ## 🛠️ Tech Stack
 
