@@ -7,7 +7,7 @@ It allows students to submit complaints and management to view/update them.
 
 ## 🚀 Live Frontend URL (Vercel)
 
-👉 https://feedback-frontend-ochre.vercel.app/
+👉 https://feedback-frontend-ochre.vercel.app/ (Mangement Page Password = 2006)
 
 ---
 
