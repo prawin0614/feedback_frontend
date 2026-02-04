@@ -26,7 +26,7 @@ If backend is not running, complaints data may not load.
 ---
 ## 📊 Project Presentation
 
-👉 [Download Project PPT](https://github.com/prawin0614/feedback-backend/blob/main/Complaint_Management_System_Presentation.pptx)
+👉 [Download Project PPT](https://github.com/prawin0614/feedback_frontend/blob/main/Complaint-Management-System.pptx)
 
 
 ## 🛠️ Tech Stack
